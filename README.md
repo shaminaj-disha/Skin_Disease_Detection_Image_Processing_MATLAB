@@ -1,6 +1,6 @@
 # Skin_Disease_Detection_Image_Processing_MATLAB
 
-Welcome to Skin_Disease_Detection_Image_Processing_MATLAB. It's Digital Image Processing project. It will detect whether the skin is diseased or not.
+Welcome to Skin_Disease_Detection_Image_Processing_MATLAB. It's Digital Image Processing project using MATLAB. It will detect whether the skin is diseased or not.
 
 To run this project follow these instructions:
 
